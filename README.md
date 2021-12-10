@@ -1,1 +1,3 @@
 # Supervised-Machine-Learning
+Supervised machine learning is a type of machine learning where a computer algorithm is trained using labelled input data and the computer, in turn, predicts the output for unforeseen data. Here, “labelled” means that some data will already be tagged with the correct answers to help the machine learn. In supervised learning, the input data fed to the computer works like a supervisor or teacher to train the machine to yield accurate results by detecting underlying patterns and correlations between the input data and the output labels.
+Types of Supervised Learning Algorithms: Classification,Regression,Decision Tree,Support Vector machine,Naive Bayesian Model,Random Forest Model
